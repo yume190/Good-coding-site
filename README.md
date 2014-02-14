@@ -14,3 +14,13 @@ Good-coding-site
 # JAVASCRIPT
 
  * [YOU MIGHT NOT NEED JQUERY](http://youmightnotneedjquery.com/)
+ * 
+ 
+# KODING
+ * [koding status](http://status.koding.com/pages/52e17667541ea2fc5700001e)
+ * [Coding With Koding](http://code.tutsplus.com/articles/coding-with-koding--net-35285)
+ * [ngrok](https://ngrok.com/)
+ * [Amaran JS](http://hakanersu.github.io/AmaranJS/)
+ * [meteor](https://www.meteor.com/)
+ * [Synergy](http://synergy-foss.org/)
+ * [Search Engine Rank Position (SERP) Checker & Tracker](https://serprankchecker.com/)
