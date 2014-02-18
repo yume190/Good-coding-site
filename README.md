@@ -35,5 +35,12 @@ Good-coding-site
  * [PHASER](http://phaser.io/)
  * 
  
+# Android
+ * [【Android每周专题】Android中的逆向工程](http://blog.csdn.net/a2bgeek/article/details/15338911)
+ * [Smali--Dalvik虚拟机指令语言-->【android_smali语法学习一】](http://blog.csdn.net/wdaming1986/article/details/8299996)
+ * []() 
+ 
+ 
+ 
 # ???
  * [???](http://blog.wercker.com/2014/02/06/RethinkDB-Gingko-Martini-Golang.html)
