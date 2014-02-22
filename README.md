@@ -8,7 +8,7 @@ Good-coding-site
  * [How To Add a Slide-out Sidebar Menu in Your Apps](http://www.appcoda.com/ios-programming-sidebar-navigation-menu/)
  * [Storyboards Segue Tutorial: Pass Data Between View Controllers](http://www.appcoda.com/storyboards-ios-tutorial-pass-data-between-view-controller-with-segue/)
  * [How to Use UIPageViewController to Build Tutorial Screens](http://www.appcoda.com/uipageviewcontroller-tutorial-intro/)
- * []()
+ * [Clean, Modern Objective-C](http://harlanhaskins.com/2014/02/20/clean-modern-objective-c.html)
  * []()
  * []()
  * []()
@@ -25,6 +25,7 @@ Good-coding-site
  * [Python Network Programming](http://www.tutorialspoint.com/python/python_networking.htm)
  * [An Intro to Crypto Programming using Python](http://jdege.us/crypto-python/index.html)
  * [Python with Braces](http://www.pythonb.org/)
+ * [17 Useful Source Codes For Python Programmers!](http://www.efytimes.com/e1/fullnews.asp?edid=129852)
  
 # JAVASCRIPT
 
@@ -53,6 +54,9 @@ Good-coding-site
  * [【Android每周专题】Android中的逆向工程](http://blog.csdn.net/a2bgeek/article/details/15338911)
  * [Smali--Dalvik虚拟机指令语言-->【android_smali语法学习一】](http://blog.csdn.net/wdaming1986/article/details/8299996)
  * [dex2jar](https://code.google.com/p/dex2jar/) 
+ * [Reverse engineering from an APK file to a project](http://stackoverflow.com/questions/12732882/reverse-engineering-from-an-apk-file-to-a-project)
+ * [Practice of Android Reverse Engineering](http://www.slideshare.net/jserv/practice-of-android-reverse-engineering)
+ * [Reverse Engineering Of Malware On Android](https://www.sans.org/reading-room/whitepapers/pda/reverse-engineering-malware-android-33769)
  
  
  
