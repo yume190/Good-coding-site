@@ -57,8 +57,13 @@ Good-coding-site
  * [Reverse engineering from an APK file to a project](http://stackoverflow.com/questions/12732882/reverse-engineering-from-an-apk-file-to-a-project)
  * [Practice of Android Reverse Engineering](http://www.slideshare.net/jserv/practice-of-android-reverse-engineering)
  * [Reverse Engineering Of Malware On Android](https://www.sans.org/reading-room/whitepapers/pda/reverse-engineering-malware-android-33769)
+ * [Android編程](http://androidbiancheng.blogspot.tw/2014_02_01_archive.html)
+ * [Shung007's Android Notepad](http://shung007.blogspot.tw/2010/11/android-tips-screenorientation.html)
+ * [Android Screen Orientation Change (Screen Rotation) Example](http://techblogon.com/android-screen-orientation-change-rotation-example/)
+ * [ysl 的程式天堂 - Android 應用開發 ‧ 研究 ‧ 與諮詢](http://ysl-paradise.blogspot.tw/2011/04/listview-i.html)
  
  
  
 # ???
  * [???](http://blog.wercker.com/2014/02/06/RethinkDB-Gingko-Martini-Golang.html)
+ * [可视化编程](http://coolshell.cn/articles/11094.html)
