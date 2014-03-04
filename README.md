@@ -9,6 +9,9 @@ Good-coding-site
  * [lt-markdown:Light Table md plugin](https://github.com/MarcoPolo/lt-markdown)
  * 
  
+# Nodejs
+ * [七天學會Nodejs](http://nqdeng.github.io/7-days-nodejs/)
+ 
 # PDF
  * [The Timeless Way of Building](http://library.uniteddiversity.coop/Ecological_Building/The_Timeless_Way_of_Building_Complete.pdf)
  * [A Pattern Language](http://library.uniteddiversity.coop/Ecological_Building/A_Pattern_Language.pdf)
