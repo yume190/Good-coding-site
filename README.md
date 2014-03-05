@@ -9,6 +9,12 @@ Good-coding-site
  * [lt-markdown:Light Table md plugin](https://github.com/MarcoPolo/lt-markdown)
  * 
  
+# Youtube v3 api
+ * https://www.googleapis.com/youtube/v3/playlists?part=snippet&channelId=UC-lHJZR3Gqxm24_Vd_AJ5Yw&key=AIzaSyC_GcZXBlvDI3wi-bZe66oNAfrezqljYtM
+ * https://www.googleapis.com/youtube/v3/playlists?part=snippet%2Cid%2CcontentDetails%2Cplayer%2Cstatus&id=PLYH8WvNV1YEmylTFsGz3CbQ0aSKYU0TEf&key=AIzaSyC_GcZXBlvDI3wi-bZe66oNAfrezqljYtM
+ * https://www.googleapis.com/youtube/v3/playlistItems?playlistId=PLYH8WvNV1YEmylTFsGz3CbQ0aSKYU0TEf&key=AIzaSyC_GcZXBlvDI3wi-bZe66oNAfrezqljYtM&part=contentDetails%2Csnippet%2Cid%2Cstatus
+ * https://www.googleapis.com/youtube/v3/videos?id=gC7q17VoB6M&part=snippet%2CcontentDetails%2Cplayer&key=AIzaSyC_GcZXBlvDI3wi-bZe66oNAfrezqljYtM
+ 
 # Nodejs
  * [七天學會Nodejs](http://nqdeng.github.io/7-days-nodejs/)
  
