@@ -67,6 +67,8 @@ Good-coding-site
  
 # HTML5 GAME FRAMEWORK
  * [PHASER](http://phaser.io/)
+ * [Pixi](https://github.com/GoodBoyDigital/pixi.js)
+ * [Three](http://threejs.org/)
  * 
  
 # HTML5
