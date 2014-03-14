@@ -3,7 +3,16 @@ Good-coding-site
 
 自收好的程式連結
 
+# Li
+ * [那些台灣軟體產業所缺少的 – 開放源始碼](http://blog.ez2learn.com/2011/11/25/taiwan-software-lacking-of-open-source/)
+ * [Open Source 開放原始碼的授權比較!](http://www.takobear.tw/12/post/2013/07/open-source.html)
 
+# 扁平化設計
+ * [怒赞！2013扁平化设计终极指南](http://www.uisdc.com/the-ultimate-guide-to-flat-design)
+
+# Taiwan 社群
+ * [臺灣 自由/開放 軟硬體 社群列表
+](http://www.mindmeister.com/303031964/open-source-community-map-in-taiwan)
 
 # LIGHT TABLE
  * [lt-markdown:Light Table md plugin](https://github.com/MarcoPolo/lt-markdown)
@@ -74,6 +83,7 @@ Good-coding-site
 # HTML5
  * pdf[html5 tutorial](http://www.tutorialspoint.com/html5/html5_tutorial.pdf)
  * [tutorials point](http://www.tutorialspoint.com/html5/html5_pdf_version.htm)
+ * [thecodeplayer](http://thecodeplayer.com/)
  
 # Android
  * [【Android每周专题】Android中的逆向工程](http://blog.csdn.net/a2bgeek/article/details/15338911)
@@ -93,3 +103,4 @@ Good-coding-site
  * [???](http://blog.wercker.com/2014/02/06/RethinkDB-Gingko-Martini-Golang.html)
  * [可视化编程](http://coolshell.cn/articles/11094.html)
  * [Autoformat](http://bootitor.webbackstube.at/#)
+ * [20thingsilearned](http://www.20thingsilearned.com/zh-TW/home)
