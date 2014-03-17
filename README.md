@@ -9,6 +9,11 @@ Good-coding-site
 
 # 扁平化設計
  * [怒赞！2013扁平化设计终极指南](http://www.uisdc.com/the-ultimate-guide-to-flat-design)
+ * [GUIDELINE COLOUR](http://guidelinecolour.com/)
+ * [UI Pattern](http://www.mobile-patterns.com/)
+
+# 演算法
+ * [Sort](http://sorting.at/)
 
 # Taiwan 社群
  * [臺灣 自由/開放 軟硬體 社群列表
@@ -104,3 +109,4 @@ Good-coding-site
  * [可视化编程](http://coolshell.cn/articles/11094.html)
  * [Autoformat](http://bootitor.webbackstube.at/#)
  * [20thingsilearned](http://www.20thingsilearned.com/zh-TW/home)
+ * [xdistro](http://www.xdistro.tk/)
