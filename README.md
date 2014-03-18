@@ -6,6 +6,8 @@ Good-coding-site
 # Li
  * [那些台灣軟體產業所缺少的 – 開放源始碼](http://blog.ez2learn.com/2011/11/25/taiwan-software-lacking-of-open-source/)
  * [Open Source 開放原始碼的授權比較!](http://www.takobear.tw/12/post/2013/07/open-source.html)
+ * #### [Wiki Mit](http://zh.wikipedia.org/wiki/MIT%E8%A8%B1%E5%8F%AF%E8%AD%89)
+ * #### [Mit 中英文](http://lucien.cc/?p=15)
 
 # 扁平化設計
  * [怒赞！2013扁平化设计终极指南](http://www.uisdc.com/the-ultimate-guide-to-flat-design)
