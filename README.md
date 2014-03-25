@@ -45,6 +45,7 @@ Good-coding-site
  * [How to Use UIPageViewController to Build Tutorial Screens](http://www.appcoda.com/uipageviewcontroller-tutorial-intro/)
  * [Clean, Modern Objective-C](http://harlanhaskins.com/2014/02/20/clean-modern-objective-c.html)
  * [Furnace IOS 程式設計中文學習網站](http://furnacedigital.blogspot.tw/)
+ * http://blog.devtang.com/blog/2012/12/02/use-cocoapod-to-manage-ios-lib-dependency/
  * []()
  * []()
  * []()
@@ -61,6 +62,10 @@ Good-coding-site
  * [An Intro to Crypto Programming using Python](http://jdege.us/crypto-python/index.html)
  * [Python with Braces](http://www.pythonb.org/)
  * [17 Useful Source Codes For Python Programmers!](http://www.efytimes.com/e1/fullnews.asp?edid=129852)
+ * http://www.cs.tut.fi/~ask/aspects/download.shtml
+ * https://gist.github.com/mbdhack/9739407
+ * http://www.fromdev.com/2014/03/python-tutorials-resources.html
+ * http://mynt.uhnomoli.com/community/sites/
  
 # JAVASCRIPT
 
@@ -104,6 +109,8 @@ Good-coding-site
  * [Android Screen Orientation Change (Screen Rotation) Example](http://techblogon.com/android-screen-orientation-change-rotation-example/)
  * [ysl 的程式天堂 - Android 應用開發 ‧ 研究 ‧ 與諮詢](http://ysl-paradise.blogspot.tw/2011/04/listview-i.html)
  
+
+
  
  
 # ???
@@ -111,4 +118,6 @@ Good-coding-site
  * [可视化编程](http://coolshell.cn/articles/11094.html)
  * [Autoformat](http://bootitor.webbackstube.at/#)
  * [20thingsilearned](http://www.20thingsilearned.com/zh-TW/home)
+ * http://semver.org/lang/zh-TW/
+ * http://zetcode.com/
  * [xdistro](http://www.xdistro.tk/)
