@@ -3,6 +3,10 @@ Good-coding-site
 
 自收好的程式連結
 
+# ??
+ * http://www.lifeparty.idv.tw/blog/archives/6126
+ * 
+
 # Li
  * [那些台灣軟體產業所缺少的 – 開放源始碼](http://blog.ez2learn.com/2011/11/25/taiwan-software-lacking-of-open-source/)
  * [Open Source 開放原始碼的授權比較!](http://www.takobear.tw/12/post/2013/07/open-source.html)
