@@ -66,10 +66,14 @@ Good-coding-site
  * [An Intro to Crypto Programming using Python](http://jdege.us/crypto-python/index.html)
  * [Python with Braces](http://www.pythonb.org/)
  * [17 Useful Source Codes For Python Programmers!](http://www.efytimes.com/e1/fullnews.asp?edid=129852)
- * http://www.cs.tut.fi/~ask/aspects/download.shtml
- * https://gist.github.com/mbdhack/9739407
- * http://www.fromdev.com/2014/03/python-tutorials-resources.html
- * http://mynt.uhnomoli.com/community/sites/
+ * [])http://www.cs.tut.fi/~ask/aspects/download.shtml)
+ * [](https://gist.github.com/mbdhack/9739407)
+ * [](http://www.fromdev.com/2014/03/python-tutorials-resources.html)
+ * [](http://mynt.uhnomoli.com/community/sites/)
+ * [](https://github.com/shadow-box/Violent-Python-Examples)
+ * [](http://nbviewer.ipython.org/)
+ * [](https://github.com/hhhnrnewabc/Learning-Python)
+ * [](http://www.ict.ru.ac.za/Resources/cspw/thinkcspy3/thinkcspy3/)
  
 # JAVASCRIPT
 
